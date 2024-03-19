@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "bsp.h": "c",
+        "key.h": "c",
+        "stm32f10x.h": "c",
+        "oled.h": "c",
+        "oled_font.h": "c",
+        "pwm.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
